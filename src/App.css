@@ -1,0 +1,17 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container {
+    background-color: #dedede;
+}
+
+li {
+    list-style: none;
+}
+
+li .current {
+    background-color: rgb(226, 226, 203);
+}
